@@ -145,7 +145,7 @@ header .container .top__nav .top__social .social_btn {
   transition: 0.3s all;
   margin-top: 10px;
 }
-header .container .top__nav .top__social .btns_cont .social_btn:hover {
+header .container .top__nav .top__social .social_btn:hover {
   background: #fff;
   color: #33c5f3;
 }
